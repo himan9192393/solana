@@ -1,11 +1,6 @@
 {
-  "name": "TSAR",
-  "symbol": "TSAR",
-  "image": "https://raw.githubusercontent.com/himan9192393/solana/refs/heads/main/tsar.jpeg",
-  "attributes": [
-    {
-      "trait_type": "Item",
-      "value": "Compressed Coil"
-    }
-  ]
+    "name": "LQNA",
+    "symbol": "LQNA",
+    "description": "This is the best token ever of hyperrr!",
+    "image": "https://raw.githubusercontent.com/himan9192393/solana/refs/heads/main/photo_2024-12-10_11-47-05.jpg"
 }
